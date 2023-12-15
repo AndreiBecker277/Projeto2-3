@@ -23,6 +23,7 @@ O adm poderá adiconar usuarios, tarefas e poder edita-las, conclui-las e exclui
 
   ## Relação das tabelas Banco de Dados
 
+![AssetsPro2](https://github.com/AndreiBecker277/AssetsPro2/blob/main/banco.JPG)
 
    ## Ferramentas Utilizadas
    * Programação em php
