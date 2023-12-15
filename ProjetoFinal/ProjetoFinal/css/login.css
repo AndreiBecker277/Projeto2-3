@@ -1,0 +1,9 @@
+form {
+    justify-content: space-between;
+    align-items: center;
+}
+
+form input {
+    height: 50px;
+    width: 100px;
+}
