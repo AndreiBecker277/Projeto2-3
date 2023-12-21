@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300&display=swap');
+
+
+form {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
+
+form input[type="text"] {
+    height: 40px;
+    width: 375px;
+}
+
+form input[type="email"] {
+    height: 40px;
+    width: 375px;
+}
+
+form input[type="password"] {
+    height: 40px;
+    width: 375px;
+}
+
+form input[type="submit"] {
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    background-color: black;
+    height: 50px;
+    width: 200px;
+    border: black;
+}
+
+label {
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+
+.usuario {
+    font-family: 'Poppins', sans-serif;
+    color: rgb(255, 0, 0);
+}
+
+h1 {
+
+    font-family: 'Poppins', sans-serif;
+    color: aliceblue;
+}
+
+h2 {
+
+    font-family: 'Poppins', sans-serif;
+    color: aliceblue;
+}
+
+select {
+    height: 40px;
+    width: 375px;
+}
+
+a {
+    text-decoration: none;
+    margin-right: 10px;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
