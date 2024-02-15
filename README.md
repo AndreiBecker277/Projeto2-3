@@ -2,6 +2,9 @@
 O projeto Terá Telas de cadastro e Login para Usuarios com função de adicionar tarefas que apenas o proprio adicionou,
 O adm poderá adiconar usuarios, tarefas e poder edita-las, conclui-las e exclui-las com tela propria de login e lista de tarefas.
 
+## Descriação atualizada:
+Projeto não foi finalizado pode sofrer atualizaões ou cancelado.
+
 ## Prototipo do projeto:
 
  ![AssetsPro2](https://github.com/AndreiBecker277/AssetsPro2/blob/main/1.png)
